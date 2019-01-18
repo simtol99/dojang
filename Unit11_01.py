@@ -1,0 +1,6 @@
+print(43 in (38, 76, 43, 62, 19))
+print(1 in range(10))
+a = range(10)
+b = range(20)
+c = list(a) + list(b)
+print(list(range(0, 5, 2)) * 3)
